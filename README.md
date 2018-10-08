@@ -1,6 +1,6 @@
 # Balsn
 
-Balsn is CTF team from [Taiwan](https://taiwan.gov.tw/) founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](https://balsn.github.io/ctf_writeup/) on CTF challenges.
+Balsn is CTF team from [Taiwan](https://taiwan.gov.tw/) founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
 
 We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, and etc. Besides our own research, all of us enjoy playing CTF because we believe it is an excellent chance to hone our skills in practice, catch up with the latest trend, and most importantly -- compete and have fun!
 
