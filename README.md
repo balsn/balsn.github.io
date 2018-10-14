@@ -36,8 +36,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 | ![][bbiiggppiigg] | **bbiiggppiigg**<br />( The challenge I can solve ) ≡ ( The challenge which is too easy ) |
 | ![][xinra] | **Xinra**<br />> "Every challenge is brute-forceable if you believe in yourself."<br />For me, 500 [500 CAPTCHAs](https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/misc/misc-300) are just an hour of human work. |
 | ![][ymk] | **ymk**<br />Welcome to the world of CTF. |
-| ![][laurice] | **laurice**<br />A girl studies in computer science and interested in classical music.<br/>She has absolute pitch and used the ability to decode music in [D-CTF final](https://github.com/p4-team/ctf/tree/master/2017-11-09-defcamp-final/favourite_song).
-She is now focusing on the area of machine learning. |
+| ![][laurice] | **laurice**<br />A girl studies in computer science and interested in classical music. <br />She has absolute pitch and used the ability to decode music in [D-CTF final](https://github.com/p4-team/ctf/tree/master/2017-11-09-defcamp-final/favourite_song). She is now focusing on the area of machine learning. |
 
 [laurice]: images/laurice.png
 [ysc]: images/ysc.png
