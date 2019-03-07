@@ -24,6 +24,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 |     ![][slowpoke]     | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
 |     ![][cli4125]      | **cli4125**<br />A very beginner who interest in pwn and reverse engineering. Now study in NTU-EECS. |
 |       ![][pone]       | **pone**<br />pone!                                          |
+|     ![][hortune]      | **hortune**<br />struggling with solidity QQ                 |
 
 
 ## Honorary Members
@@ -59,6 +60,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 [cli4125]: images/cli4125.png
 [lingling]: images/lingling.png
 [pone]: images/pone.png
+[hortune]: images/hortune.png
 [slowpoke]: images/slowpoke.png
 
 # Awards
