@@ -1,6 +1,6 @@
 # Balsn
 
-Balsn is CTF team from [Taiwan](https://taiwan.gov.tw/) founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
+Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
 
 We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, and etc. Besides our own research, all of us enjoy playing CTF because we believe it is an excellent chance to hone our skills in practice, catch up with the latest trend, and most importantly -- compete and have fun!
 
@@ -60,6 +60,18 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 [lingling]: images/lingling.png
 [pone]: images/pone.png
 [slowpoke]: images/slowpoke.png
+
+# Awards
+
+- DEFCON 26 CTF Final, 12th place (BFS), Las Vegas, USA, Aug. 2018
+- HITCON CTF 2018, 3rd place (BFKinesiS), online, Oct. 2018
+- HITB-XCTF GSEC CTF 2018 Final, 5th place, Singapore City, Singapore, Sep. 2018
+- Pwn2Win CTF 2018, 1st place, online, Nov. 2018
+- Hackover CTF 2018, 2nd place, online, Oct. 2018
+- ASIS CTF Finals 2018, 5th place, online, Nov. 2018
+- Trend Micro CTF 2018 Finalist, Tokyo, Japan, Dec. 2018
+- SECCON 2018 Finalist, Tokyo, Japan, Dec. 2018
+
 
 # Contact
 
