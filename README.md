@@ -25,6 +25,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 |     ![][cli4125]      | **cli4125**<br />A very beginner who interest in pwn and reverse engineering. Now study in NTU-EECS. |
 |       ![][pone]       | **pone**<br />pone!                                          |
 |     ![][hortune]      | **hortune**<br />struggling with solidity QQ                 |
+|      ![][yuawn]       | **yuawn**<br />Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn) |
 
 
 ## Honorary Members
@@ -61,6 +62,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 [lingling]: images/lingling.png
 [pone]: images/pone.png
 [hortune]: images/hortune.png
+[yuawn]: images/yuawn.png
 [slowpoke]: images/slowpoke.png
 
 # Awards
