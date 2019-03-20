@@ -67,16 +67,20 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 [treetree]: images/treetree.png
 [slowpoke]: images/slowpoke.png
 
-# Awards
+# Selected Awards
 
-- DEFCON 26 CTF Final, 12th place (BFS), Las Vegas, USA, Aug. 2018
-- HITCON CTF 2018, 3rd place (BFKinesiS), online, Oct. 2018
-- HITB-XCTF GSEC CTF 2018 Final, 5th place, Singapore City, Singapore, Sep. 2018
-- Pwn2Win CTF 2018, 1st place, online, Nov. 2018
-- Hackover CTF 2018, 2nd place, online, Oct. 2018
-- ASIS CTF Finals 2018, 5th place, online, Nov. 2018
-- Trend Micro CTF 2018 Finalist, Tokyo, Japan, Dec. 2018
-- SECCON 2018 Finalist, Tokyo, Japan, Dec. 2018
+| DEFCON 26 CTF Final, 12th place (BFS)     |            Las Vegas, USA, Aug. 2018 |
+| ----------------------------------------- | -----------------------------------: |
+| HITCON CTF 2018, 3rd place (BFKinesiS)    |                    Online, Oct. 2018 |
+| HITB-XCTF GSEC CTF 2018 Finals, 5th place | Singapore City, Singapore, Sep. 2018 |
+| Pwn2Win CTF 2018, 1st place               |                    Online, Nov. 2018 |
+| Hackover CTF 2018, 2nd place              |                    Online, Oct. 2018 |
+| ASIS CTF Finals 2018, 5th place           |                    Online, Nov. 2018 |
+| DefCamp CTF Finals                        |        Bucharest, Romania, Nov. 2018 |
+| DefCamp CTF Finals                        |        Bucharest, Romania, Nov. 2017 |
+| Trend Micro CTF 2018 Finals               |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2018 Finals                        |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2017 Finals (1$@AIS3, Balsn)       |              Tokyo, Japan, Feb. 2018 |
 
 
 # Contact
