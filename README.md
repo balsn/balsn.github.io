@@ -75,6 +75,7 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 | ----------------------------------------- | -----------------------------------: |
 | HITCON CTF 2018, 3rd place (BFKinesiS)    |                    Online, Oct. 2018 |
 | Teaser CONFidence CTF 2019, 2nd place     |                   Online, March 2019 |
+| Codegate CTF 2019 Final, 6th place        |              Seoul, Korea, Mar. 2019 |
 | HITB-XCTF GSEC CTF 2018 Finals, 5th place | Singapore City, Singapore, Sep. 2018 |
 | Pwn2Win CTF 2018, 1st place               |                    Online, Nov. 2018 |
 | Hackover CTF 2018, 2nd place              |                    Online, Oct. 2018 |
