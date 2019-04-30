@@ -4,9 +4,9 @@
 
 We are planning to hold our first CTF event Balsn CTF in October 2019.
 
-Date: 10/5 (UTC+8) ~ 10/7 (UTC+8), 48 hours, time TBD
-Format: Online Jeopardy
-Prize: TBD
+- Date: 10/5 (UTC+8) ~ 10/7 (UTC+8), 48 hours, time TBD
+- Format: Online Jeopardy
+- Prize: TBD
 
 Note that all the information above are subjected to change. Stay tuned!
 
