@@ -10,6 +10,8 @@ We are planning to hold our first CTF event Balsn CTF in October 2019.
 
 Note that all the information above are subjected to change. Stay tuned!
 
+If you are interested in sponsoring Balsn CTF, feel free to contact us via email!
+
 # About
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
