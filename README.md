@@ -4,7 +4,7 @@
 
 We are planning to hold our first CTF event Balsn CTF in October 2019.
 
-- Date: 10/5 (UTC+8) ~ 10/7 (UTC+8), 48 hours, time TBD
+- Date: 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8)
 - Format: Online Jeopardy
 - Prize: TBD
 - [CTFtime link](https://ctftime.org/event/811)
@@ -86,22 +86,24 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 
 # Selected Awards
 
-| DEFCON 26 CTF Final, 12th place (BFS)     |            Las Vegas, USA, Aug. 2018 |
-| ----------------------------------------- | -----------------------------------: |
-| HITCON CTF 2018, 3rd place (BFKinesiS)    |                    Online, Oct. 2018 |
-| PlaidCTF 2019, 4th place                  |                   Online,  Apr. 2019 |
-| \*CTF 2019, 3rd place                     |                    Online, Apr. 2019 |
-| Teaser CONFidence CTF 2019, 2nd place     |                   Online, March 2019 |
-| Codegate CTF 2019 Final, 6th place        |              Seoul, Korea, Mar. 2019 |
-| HITB-XCTF GSEC CTF 2018 Finals, 5th place | Singapore City, Singapore, Sep. 2018 |
-| Pwn2Win CTF 2018, 1st place               |                    Online, Nov. 2018 |
-| Hackover CTF 2018, 2nd place              |                    Online, Oct. 2018 |
-| ASIS CTF Finals 2018, 5th place           |                    Online, Nov. 2018 |
-| DefCamp CTF Finals                        |        Bucharest, Romania, Nov. 2018 |
-| DefCamp CTF Finals                        |        Bucharest, Romania, Nov. 2017 |
-| Trend Micro CTF 2018 Finals               |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2018 Finals                        |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2017 Finals (1$@AIS3, Balsn)       |              Tokyo, Japan, Feb. 2018 |
+| DEFCON 26 CTF Final, 12th place (BFS)                 |            Las Vegas, USA, Aug. 2018 |
+| ----------------------------------------------------- | -----------------------------------: |
+| DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS) |                    Online, May. 2019 |
+| RCTF 2019, 3rd place                                  |                    Online, May. 2019 |
+| HITCON CTF 2018, 3rd place (BFKinesiS)                |                    Online, Oct. 2018 |
+| PlaidCTF 2019, 4th place                              |                   Online,  Apr. 2019 |
+| \*CTF 2019, 3rd place                                 |                    Online, Apr. 2019 |
+| Teaser CONFidence CTF 2019, 2nd place                 |                   Online, March 2019 |
+| Codegate CTF 2019 Final, 6th place                    |              Seoul, Korea, Mar. 2019 |
+| HITB-XCTF GSEC CTF 2018 Finals, 5th place             | Singapore City, Singapore, Sep. 2018 |
+| Pwn2Win CTF 2018, 1st place                           |                    Online, Nov. 2018 |
+| Hackover CTF 2018, 2nd place                          |                    Online, Oct. 2018 |
+| ASIS CTF Finals 2018, 5th place                       |                    Online, Nov. 2018 |
+| DefCamp CTF Finals                                    |        Bucharest, Romania, Nov. 2018 |
+| DefCamp CTF Finals                                    |        Bucharest, Romania, Nov. 2017 |
+| Trend Micro CTF 2018 Finals                           |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2018 Finals                                    |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2017 Finals (1$@AIS3, Balsn)                   |              Tokyo, Japan, Feb. 2018 |
 
 
 # Contact
