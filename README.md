@@ -25,10 +25,10 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 
 ## Active Memebers
 
-|     ![][how2hack]     | how2hack<br />Current leader of Balsn. Give me flag (・ω・)  |
+|     ![][how2hack]     | **how2hack**<br />Current leader of Balsn. Give me flag (・ω・) |
 | :-------------------: | :----------------------------------------------------------- |
 |      ![][sasdf]       | **sasdf**<br />Yet another Shaman King of Balsn. He focuses on all kinds of challenges. |
-|     ![][bookgin]      | **bookgin**<br />He mainly focus on web, forensics and misc challenges. He's also in charge of infrastructure tasks when playing attack/defense CTF. <br />- Blog: [https://bookgin.tw](https://bookgin.tw/)<br />- GitHub: [bookgin](https://github.com/bookgin/) |
+|     ![][bookgin]      | **bookgin**<br />He mainly focus on web, forensics and misc challenges. He's also in charge of infrastructure tasks when playing attack/defense CTF. <br />- Blog: [https://bookgin.tw](https://bookgin.tw/)<br />- Twitter: [@bookgin_tw](http://twitter.com/bookgin_tw) |
 |     ![][kevin47]      | **kevin47**<br />(｡>_ŏ)▄︻̷̿┻̿═━一                              |
 |    ![][sces60107]     | **sces60107**<br />sces60107 (a.k.a Shaman King) knows nothing about reverse engineering and binary exploit, but he knows how to get the flag. This guy specializes in mind-reading and guessing the flag. |
 | ![][qazwsxedcrfvtg14] | **qazwsxedcrfvtg14**<br />Warning: He is a dangerous guy. Everything he touched will malfunction in a jiffy. |
