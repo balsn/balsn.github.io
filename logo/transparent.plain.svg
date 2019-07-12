@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 0.0013546667 0.0013546667"
+   height="512"
+   width="512">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,214.99623)"
+     id="layer1">
+    <flowRoot
+       transform="matrix(8.8717822e-6,0,0,8.8717822e-6,-0.00205162,-215.00226)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot815"
+       xml:space="preserve"><flowRegion
+         id="flowRegion817"><rect
+           y="735.11816"
+           x="245.71428"
+           height="468.57144"
+           width="1514.2858"
+           id="rect819" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Audiowide;-inkscape-font-specification:Audiowide;fill:#b5e853;fill-opacity:1"
+         id="flowPara821">Balsn</flowPara></flowRoot>    <rect
+       y="-214.99648"
+       x="1.32e-06"
+       height="0.0013520218"
+       width="0.0013520218"
+       id="rect822"
+       style="opacity:0;fill:#49a158;fill-opacity:1;stroke:#5abc00;stroke-width:0.00000264;stroke-opacity:1" />
+  </g>
+</svg>
