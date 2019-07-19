@@ -28,13 +28,13 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 |     ![][how2hack]     | **how2hack**<br />Current leader of Balsn. Give me flag (・ω・) |
 | :-------------------: | :----------------------------------------------------------- |
 |      ![][sasdf]       | **sasdf**<br />Yet another Shaman King of Balsn. He focuses on all kinds of challenges. |
-|     ![][bookgin]      | **bookgin**<br />He mainly focus on `web`, `forensics` and `misc` challenges. He's also in charge of infrastructure tasks when playing attack/defense CTF. <br />- Blog: [https://bookgin.tw](https://bookgin.tw/)<br />- Twitter: [@bookgin_tw](http://twitter.com/bookgin_tw) |
+|     ![][bookgin]      | **bookgin**<br />I enjoy playing web challenges!<br />- Blog: [https://bookgin.tw](https://bookgin.tw/)<br />- Twitter: [@bookgin_tw](http://twitter.com/bookgin_tw) |
 |     ![][kevin47]      | **kevin47**<br />(｡>_ŏ)▄︻̷̿┻̿═━一                              |
 |    ![][sces60107]     | **sces60107**<br />sces60107 (a.k.a Shaman King) knows nothing about reverse engineering and binary exploit, but he knows how to get the flag. This guy specializes in mind-reading and guessing the flag. |
 | ![][qazwsxedcrfvtg14] | **qazwsxedcrfvtg14**<br />Warning: He is a dangerous guy. Everything he touched will malfunction in a jiffy. |
 |       ![][shw]        | **shw**<br />Blog: [https://x9453.github.io/](https://x9453.github.io/) |
 |      ![][fweasd]      | **fweasd**<br />I love CTFs, but they don't like me...<br/>mainly studied in pwn and crypto |
-|      ![][RB363]       | [**RB363**](https://github.com/rb363)<br/>A normal student interesting in all hacker things. Now sharpening his skills on web exploitation. |
+|      ![][RB363]       | [**RB363**](https://github.com/RB363)<br/>Nothing to do with RB Tree |
 |     ![][slowpoke]     | **YY**<br />A student who interested in binary analysis and like to PWN everything. |
 |     ![][slowpoke]     | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
 |     ![][cli4125]      | **cli4125**<br />A very beginner who interest in pwn and reverse engineering. Now study in NTU-EECS. |
@@ -43,6 +43,10 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 |      ![][yuawn]       | **yuawn**<br />Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn) |
 |     ![][treetree]     | **treetree**<br />If you see a 🌲 walking on the sidewalk.<br />That’s me. 🙂 |
 |     ![][leon0xff]     | **leon0xff**<br />My name is Leon Off.                       |
+|      ![][kaibro]      | **Kaibro**<br />∠( ᐛ 」∠)＿<br/>Website: [kaibro.tw](http://kaibro.tw)<br/>Blog: [blog.kaibro.tw](https://blog.kaibro.tw) |
+|     ![][slowpoke]     | [**maojui**](https://maojui.me/)<br />ヽ(✿ﾟ▽ﾟ)ノ             |
+|     ![][slowpoke]     | [**Billy**](https://github.com/st424204/ctf_practice)<br />Nothing ... Something ... Anything ... Everything |
+|       ![][nini]       | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw |
 
 
 ## Honorary Members
@@ -83,6 +87,8 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 [treetree]: images/treetree.png
 [slowpoke]: images/slowpoke.png
 [leon0xff]: images/leon0xff.png
+[kaibro]: images/kaibro.png
+[nini]: images/nini.png
 
 # Selected Awards
 
