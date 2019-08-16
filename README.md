@@ -2,7 +2,7 @@
 
 # News
 
-We are planning to hold our first CTF event Balsn CTF in October 2019.
+We are going to hold our first CTF event **Balsn CTF** in October 2019.
 
 - Date: 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8)
 - Format: Online Jeopardy
@@ -17,9 +17,9 @@ If you are interested in sponsoring Balsn CTF, feel free to contact us via email
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
 
-We are a group of cybersecurity enthusiasts interested in various areas including software security, web security, cryptography, IoT security, and etc. Besides our own research, all of us enjoy playing CTF because we believe it is an excellent chance to hone our skills in practice, catch up with the latest trend, and most importantly -- compete and have fun!
+We are a group of cybersecurity enthusiasts interested in various areas including software security, binary analysis, web security, cryptography, IoT security, and etc. Besides our own research, all of us enjoy playing CTF because we believe it is an excellent chance to hone our skills in practice, catch up with the latest trend, and most importantly -- compete and have fun!
 
-In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joint team BFS. BFS consists of 4 different CTF teams from Taiwan, including Balsn, BambooFox, DoubleSigma and KerKerYuan. We are so proud to rank **12th** place in such a great competition.
+In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joint team HITCON⚔BFKinesiS. The joint team consists of 5 different CTF teams from Taiwan, including HITCON, Balsn, BambooFox, DoubleSigma and KerKerYuan. We are so proud to rank in **second place** in such a great competition. It's also a pleasure to collaborate with HITCON to attend this event.
 
 # Team Members
 
@@ -92,9 +92,10 @@ In 2018 summer, Balsn attended *DEFCON 26 CTF World Final* in Las Vegas as a joi
 
 # Selected Awards
 
-| DEFCON 26 CTF Final, 12th place (BFS)                 |            Las Vegas, USA, Aug. 2018 |
+| DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)    |            Las Vegas, USA, Aug. 2019 |
 | ----------------------------------------------------- | -----------------------------------: |
 | DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS) |                    Online, May. 2019 |
+| DEFCON 26 CTF Final, 12th place (BFS)                 |            Las Vegas, USA, Aug. 2018 |
 | HITCON CTF 2018, 3rd place (BFKinesiS)                |                    Online, Oct. 2018 |
 | 0CTF/TCTF Finals, 2nd place                           |           Shanghai, China, Jun. 2019 |
 | PlaidCTF 2019, 4th place                              |                   Online,  Apr. 2019 |
