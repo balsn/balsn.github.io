@@ -4,6 +4,8 @@
 
 We are going to hold our first CTF event **Balsn CTF** in October 2019.
 
+The champions will pre-qualify directly for HITCON CTF Finals in December (Onsite in Taipei, Taiwan).
+
 - Date: 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8)
 - Format: Online Jeopardy
 - Prize: TBD
