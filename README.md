@@ -8,8 +8,12 @@ The champions will pre-qualify directly for HITCON CTF Finals in December (Onsit
 
 - Date: 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8)
 - Format: Online Jeopardy
-- Prize: TBD
 - [CTFtime link](https://ctftime.org/event/811)
+- Prize:
+  - 1st place: $25,000 TWD + pre-qualify for HITCON CTF Finals
+  - 2nd place: $15,000 TWD
+  - 3rd place: $10,000 TWD
+  - Balsn CTF Taiwan Star (1st domestic team): $ 10,000 TWD
 
 Note that all the information above are subjected to change. Stay tuned!
 
