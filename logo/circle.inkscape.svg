@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="logo-circle.inkscape.svg"
+   sodipodi:docname="circle.inkscape.svg"
    inkscape:export-filename="/home/bookgin/Desktop/balsn.github.io/logo/logo.png"
    inkscape:export-xdpi="101.6"
    inkscape:export-ydpi="101.6">
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.75976563"
-     inkscape:cx="-392.7338"
+     inkscape:cx="-341.55269"
      inkscape:cy="225.10371"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -37,7 +37,7 @@
      scale-x="1e-05"
      inkscape:pagecheckerboard="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1014"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,11 +59,13 @@
      id="layer2"
      inkscape:label="background">
     <circle
-       style="opacity:1;fill:#000015;fill-opacity:1;stroke:none;stroke-width:0.00000689;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00000689;stroke-opacity:1"
        id="path823"
        cx="0.00067733333"
        cy="0.00067733356"
-       r="0.00067733333" />
+       r="0.00067733333"
+       inkscape:export-xdpi="101.6"
+       inkscape:export-ydpi="101.6" />
   </g>
   <g
      inkscape:label="text"
