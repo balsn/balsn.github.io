@@ -118,27 +118,28 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 
 # Selected Awards
 
-| DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)    |            Las Vegas, USA, Aug. 2019 |
-| ----------------------------------------------------- | -----------------------------------: |
-| DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS) |                    Online, May. 2019 |
-| DEFCON 26 CTF Final, 12th place (BFS)                 |            Las Vegas, USA, Aug. 2018 |
-| HITCON CTF 2018, 3rd place (BFKinesiS)                |                    Online, Oct. 2018 |
-| 0CTF/TCTF Finals, 2nd place                           |           Shanghai, China, Jun. 2019 |
-| PlaidCTF 2019, 4th place                              |                   Online,  Apr. 2019 |
-| Facebook CTF 2019, 2nd place                          |                    Online, Jun. 2019 |
-| RCTF 2019, 3rd place                                  |                    Online, May. 2019 |
-| \*CTF 2019, 3rd place                                 |                    Online, Apr. 2019 |
-| Teaser CONFidence CTF 2019, 2nd place                 |                   Online, March 2019 |
-| Codegate CTF 2019 Final, 6th place                    |              Seoul, Korea, Mar. 2019 |
-| HITB-XCTF GSEC CTF 2018 Finals, 5th place             | Singapore City, Singapore, Sep. 2018 |
-| Pwn2Win CTF 2018, 1st place                           |                    Online, Nov. 2018 |
-| Hackover CTF 2018, 2nd place                          |                    Online, Oct. 2018 |
-| ASIS CTF Finals 2018, 5th place                       |                    Online, Nov. 2018 |
-| DefCamp CTF Finals                                    |        Bucharest, Romania, Nov. 2018 |
-| DefCamp CTF Finals                                    |        Bucharest, Romania, Nov. 2017 |
-| Trend Micro CTF 2018 Finals                           |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2018 Finals                                    |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2017 Finals (1$@AIS3, Balsn)                   |              Tokyo, Japan, Feb. 2018 |
+| **DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)** |        **Las Vegas, USA, Aug. 2019** |
+| ------------------------------------------------------ | -----------------------------------: |
+| DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS)  |                    Online, May. 2019 |
+| DEFCON 26 CTF Final, 12th place (BFS)                  |            Las Vegas, USA, Aug. 2018 |
+| HITCON CTF 2018, 3rd place (BFKinesiS)                 |                    Online, Oct. 2018 |
+| 0CTF/TCTF Finals, 2nd place                            |           Shanghai, China, Jun. 2019 |
+| TokyoWesterns CTF 5th 2019, 1st place                  |                    Online, Sep. 2019 |
+| Facebook CTF 2019, 2nd place                           |                    Online, Jun. 2019 |
+| PlaidCTF 2019, 4th place                               |                   Online,  Apr. 2019 |
+| RCTF 2019, 3rd place                                   |                    Online, May. 2019 |
+| \*CTF 2019, 3rd place                                  |                    Online, Apr. 2019 |
+| Teaser CONFidence CTF 2019, 2nd place                  |                   Online, March 2019 |
+| Codegate CTF 2019 Final, 6th place                     |              Seoul, Korea, Mar. 2019 |
+| HITB-XCTF GSEC CTF 2018 Finals, 5th place              | Singapore City, Singapore, Sep. 2018 |
+| Pwn2Win CTF 2018, 1st place                            |                    Online, Nov. 2018 |
+| Hackover CTF 2018, 2nd place                           |                    Online, Oct. 2018 |
+| ASIS CTF Finals 2018, 5th place                        |                    Online, Nov. 2018 |
+| DefCamp CTF Finals                                     |        Bucharest, Romania, Nov. 2018 |
+| DefCamp CTF Finals                                     |        Bucharest, Romania, Nov. 2017 |
+| Trend Micro CTF 2018 Finals                            |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2018 Finals                                     |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2017 Finals (1$@AIS3, Balsn)                    |              Tokyo, Japan, Feb. 2018 |
 
 
 # Contact
