@@ -1,43 +1,10 @@
-# Balsn
+# Balsn CTF 2019
 
-# News
-
-We are going to hold our first CTF event **Balsn CTF** in October 2019.
+We are going to hold our first CTF event **Balsn CTF** on 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8).
 
 The champions will pre-qualify directly for HITCON CTF Finals in December (Onsite in Taipei, Taiwan).
 
-- Date: 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8)
-- Format: Online Jeopardy
-- [CTFtime link](https://ctftime.org/event/811)
-- Prize:
-  - 1st place: $25,000 TWD + pre-qualify for HITCON CTF Finals
-  - 2nd place: $15,000 TWD
-  - 3rd place: $10,000 TWD
-  - Balsn CTF Taiwan Star (1st domestic team): $ 10,000 TWD
-
-The prize will be proceed in BTC or ETH.
-
-Note that all the information above are subjected to change. Stay tuned!
-
-If you are interested in sponsoring Balsn CTF, feel free to contact us via email!
-
----
-
-Balsn CTF 搶旗競賽將會於 2019 十月舉行。
-
-本場比賽的冠軍，將可直接獲得 HITCON CTF 台北決賽的資格。
-
-- 時間: 10/5 早上 10:00 (UTC+8) ~ 10/7 早上 10:00 (UTC+8)
-- 比賽型態：線上解題
-- [CTFtime 連結](https://ctftime.org/event/811)
-- 獎金:
-  - 第一名：$25,000 新台幣 + 保送 HITCON CTF 決賽
-  - 第二名：$15,000 新台幣
-  - 第三名：$10,000 新台幣
-  - Balsn CTF 台灣之星(國內第一名)：$ 10,000 新台幣
-
-獎金將會使用比特幣或以太幣的方式發送。
-
+For more information, please visit [https://www.balsnctf.com/](https://www.balsnctf.com/).
 
 # About
 
