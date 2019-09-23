@@ -40,6 +40,7 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 |     ![][slowpoke]     | [**maojui**](https://maojui.me/)<br />ヽ(✿ﾟ▽ﾟ)ノ             |
 |     ![][slowpoke]     | [**Billy**](https://github.com/st424204/ctf_practice)<br />Nothing ... Something ... Anything ... Everything |
 |       ![][nini]       | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw |
+|     ![][slowpoke]     | **tens**<br />PWN!                                           |
 
 
 ## Honorary Members
