@@ -1,12 +1,18 @@
 # Balsn
 
-# Balsn CTF 2019
+# News
 
-We are going to hold our first CTF event **Balsn CTF** on 10/5 10:00 a.m. (UTC+8) ~ 10/7 10:00 a.m. (UTC+8).
+Balsn CTF 2019 has ended!
 
-The champions will pre-qualify directly for HITCON CTF Finals in December (Onsite in Taipei, Taiwan).
+Congrats to top 3 here and Taiwan Star:
 
-For more information, please visit [https://www.balsnctf.com/](https://www.balsnctf.com/).
+- 1st: [hxp](https://twitter.com/hxpctf)
+- 2nd: [LC ↯ BC](https://ctftime.org/team/15726)
+- 3rd: [PPP](https://twitter.com/PlaidCTF)
+- Taiwan 1st: [新竹沒放假QAQ](#)
+
+We would like to hear from you:
+Feedback form: [https://forms.gle/R9CfAdZNHjE1paGJ9](https://forms.gle/R9CfAdZNHjE1paGJ9)
 
 # About
 
