@@ -1,19 +1,5 @@
 # Balsn
 
-# News
-
-Balsn CTF 2019 has ended!
-
-Congrats to top 3 here and Taiwan Star:
-
-- 1st: [hxp](https://twitter.com/hxpctf)
-- 2nd: [LC ↯ BC](https://ctftime.org/team/15726)
-- 3rd: [PPP](https://twitter.com/PlaidCTF)
-- Taiwan 1st: [新竹沒放假QAQ](#)
-
-We would like to hear from you:
-Feedback form: [https://forms.gle/R9CfAdZNHjE1paGJ9](https://forms.gle/R9CfAdZNHjE1paGJ9)
-
 # About
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
@@ -24,7 +10,7 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 
 # Team Members
 
-## Active Memebers
+## Active Members
 
 |     ![][how2hack]     | **how2hack**<br />Current leader of Balsn. Give me flag (・ω・) |
 | :-------------------: | :----------------------------------------------------------- |
@@ -100,6 +86,7 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 | DEFCON 26 CTF Final, 12th place (BFS)                  |            Las Vegas, USA, Aug. 2018 |
 | HITCON CTF 2018, 3rd place (BFKinesiS)                 |                    Online, Oct. 2018 |
 | 0CTF/TCTF Finals, 2nd place                            |           Shanghai, China, Jun. 2019 |
+| Pwn2Win CTF 2019, 2nd place                            |                    Online, Nov. 2019 |
 | TokyoWesterns CTF 5th 2019, 1st place                  |                    Online, Sep. 2019 |
 | Facebook CTF 2019, 2nd place                           |                    Online, Jun. 2019 |
 | PlaidCTF 2019, 4th place                               |                   Online,  Apr. 2019 |
