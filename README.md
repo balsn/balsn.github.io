@@ -12,8 +12,9 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 
 ## Active Members
 
-|     ![][how2hack]     | **how2hack**<br />Current leader of Balsn. Give me flag (・ω・) |
+|      ![][yuawn]       | **yuawn**<br />Current leader of Balsn. Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn) |
 | :-------------------: | :----------------------------------------------------------- |
+|     ![][how2hack]     | **how2hack**<br />Give me flag (・ω・)                       |
 |      ![][sasdf]       | **sasdf**<br />Yet another Shaman King of Balsn. He focuses on all kinds of challenges. |
 |     ![][bookgin]      | **bookgin**<br />I enjoy playing web challenges!<br />- Blog: [https://bookgin.tw](https://bookgin.tw/)<br />- Twitter: [@bookgin_tw](http://twitter.com/bookgin_tw) |
 |     ![][kevin47]      | **kevin47**<br />(｡>_ŏ)▄︻̷̿┻̿═━一                              |
@@ -22,14 +23,9 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 |       ![][shw]        | **shw**<br />Blog: [https://x9453.github.io/](https://x9453.github.io/) |
 |      ![][fweasd]      | **fweasd**<br />I love CTFs, but they don't like me...<br/>mainly studied in pwn and crypto |
 |      ![][RB363]       | [**RB363**](https://github.com/RB363)<br/>Nothing to do with RB Tree |
-|     ![][slowpoke]     | **YY**<br />A student who interested in binary analysis and like to PWN everything. |
-|     ![][slowpoke]     | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
 |     ![][cli4125]      | **cli4125**<br />A very beginner who interest in pwn and reverse engineering. Now study in NTU-EECS. |
-|       ![][pone]       | **pone**<br />pone!                                          |
 |     ![][hortune]      | **hortune**<br />struggling with solidity QQ                 |
-|      ![][yuawn]       | **yuawn**<br />Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn) |
 |     ![][treetree]     | **treetree**<br />If you see a 🌲 walking on the sidewalk.<br />That’s me. 🙂 |
-|     ![][leon0xff]     | **leon0xff**<br />My name is Leon Off.                       |
 |      ![][kaibro]      | **Kaibro**<br />∠( ᐛ 」∠)＿<br/>Website: [kaibro.tw](http://kaibro.tw)<br/>Blog: [blog.kaibro.tw](https://blog.kaibro.tw) |
 |     ![][slowpoke]     | [**maojui**](https://maojui.me/)<br />ヽ(✿ﾟ▽ﾟ)ノ             |
 |     ![][slowpoke]     | [**Billy**](https://github.com/st424204/ctf_practice)<br />Nothing ... Something ... Anything ... Everything |
@@ -48,6 +44,9 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 | ![][xinra] | **Xinra**<br />> "Every challenge is brute-forceable if you believe in yourself."<br />For me, 500 [500 CAPTCHAs](https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/misc/misc-300) are just an hour of human work. |
 | ![][ymk] | **ymk**<br />Welcome to the world of CTF. |
 | ![][laurice] | **laurice**<br />A girl studies in computer science and interested in classical music. <br />She has absolute pitch and used the ability to decode music in [D-CTF final](https://github.com/p4-team/ctf/tree/master/2017-11-09-defcamp-final/favourite_song). She is now focusing on the area of machine learning. |
+| ![][slowpoke] | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
+| ![][slowpoke] | **YY**<br />A student who interested in binary analysis and like to PWN everything. |
+| ![][pone] | **pone**<br />pone! |
 
 [laurice]: images/laurice.png
 [ysc]: images/ysc.png
@@ -82,6 +81,7 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 
 | **DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)** |        **Las Vegas, USA, Aug. 2019** |
 | ------------------------------------------------------ | -----------------------------------: |
+| Codegate CTF 2020 Preliminary                          |                   Online, Feb., 2020 |
 | DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS)  |                    Online, May. 2019 |
 | DEFCON 26 CTF Final, 12th place (BFS)                  |            Las Vegas, USA, Aug. 2018 |
 | HITCON CTF 2018, 3rd place (BFKinesiS)                 |                    Online, Oct. 2018 |
@@ -116,4 +116,4 @@ If you have any question regarding our writeups, please feel free to [create an 
 
 ---
 
-#### This website is hosted on GitHub Pages. Please refer to GitHub's [privacy statement](https://help.github.com/articles/github-privacy-statement/) for more information.
+##### This website is hosted on GitHub Pages. Please refer to GitHub's [privacy statement](https://help.github.com/articles/github-privacy-statement/) for more information.
