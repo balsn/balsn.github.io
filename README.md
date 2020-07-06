@@ -81,7 +81,8 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 
 | **DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)** |        **Las Vegas, USA, Aug. 2019** |
 | ------------------------------------------------------ | -----------------------------------: |
-| Codegate CTF 2020 Preliminary                          |                   Online, Feb., 2020 |
+| 0CTF/TCTF 2020 Quals, 5th place                        |                    Online, Jun. 2020 |
+| Codegate CTF 2020 Preliminary, 2nd place               |                    Online, Feb. 2020 |
 | DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS)  |                    Online, May. 2019 |
 | DEFCON 26 CTF Final, 12th place (BFS)                  |            Las Vegas, USA, Aug. 2018 |
 | HITCON CTF 2018, 3rd place (BFKinesiS)                 |                    Online, Oct. 2018 |
@@ -90,12 +91,12 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 | Pwn2Win CTF 2019, 2nd place                            |                    Online, Nov. 2019 |
 | TokyoWesterns CTF 5th 2019, 1st place                  |                    Online, Sep. 2019 |
 | Facebook CTF 2019, 2nd place                           |                    Online, Jun. 2019 |
-| PlaidCTF 2019, 4th place                               |                   Online,  Apr. 2019 |
+| PlaidCTF 2019, 4th place                               |                    Online, Apr. 2019 |
 | Teaser Dragon CTF 2019, 3rd place                      |                    Online, Sep. 2019 |
 | N1CTF 2019, 2nd place                                  |                    Online, Sep. 2019 |
 | RCTF 2019, 3rd place                                   |                    Online, May. 2019 |
 | \*CTF 2019, 3rd place                                  |                    Online, Apr. 2019 |
-| Teaser CONFidence CTF 2019, 2nd place                  |                   Online, March 2019 |
+| Teaser CONFidence CTF 2019, 2nd place                  |                    Online, Mar. 2019 |
 | Codegate CTF 2019 Final, 6th place                     |              Seoul, Korea, Mar. 2019 |
 | HITB-XCTF GSEC CTF 2018 Finals, 5th place              | Singapore City, Singapore, Sep. 2018 |
 | Pwn2Win CTF 2018, 1st place                            |                    Online, Nov. 2018 |
