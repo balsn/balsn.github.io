@@ -6,7 +6,7 @@ Balsn is CTF team from Taiwan founded in 2016. Most of our current members are a
 
 We are a group of cybersecurity enthusiasts interested in various areas including software security, binary analysis, web security, cryptography, IoT security, and etc. Besides our own research, all of us enjoy playing CTF because we believe it is an excellent chance to hone our skills in practice, catch up with the latest trend, and most importantly -- compete and have fun!
 
-In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joint team HITCON⚔BFKinesiS. The joint team consists of 5 different CTF teams from Taiwan, including HITCON, Balsn, BambooFox, DoubleSigma and KerKerYuan. We are so proud to rank in **second place** in such a great competition. It's also a pleasure to collaborate with HITCON to attend this event.
+In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint team HITCON⚔Balsn, collaborating with HITCON. We ranked in **third place** in this great competition.
 
 # Team Members
 
@@ -23,9 +23,7 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 |       ![][shw]        | **shw**<br />Blog: [https://x9453.github.io/](https://x9453.github.io/) |
 |      ![][fweasd]      | **fweasd**<br />I love CTFs, but they don't like me...<br/>mainly studied in pwn and crypto |
 |      ![][RB363]       | [**RB363**](https://github.com/RB363)<br/>Nothing to do with RB Tree |
-|     ![][cli4125]      | **cli4125**<br />A very beginner who interest in pwn and reverse engineering. Now study in NTU-EECS. |
 |     ![][hortune]      | **hortune**<br />struggling with solidity QQ                 |
-|     ![][treetree]     | **treetree**<br />If you see a 🌲 walking on the sidewalk.<br />That’s me. 🙂 |
 |      ![][kaibro]      | **Kaibro**<br />∠( ᐛ 」∠)＿<br/>Website: [kaibro.tw](http://kaibro.tw)<br/>Blog: [blog.kaibro.tw](https://blog.kaibro.tw) |
 |     ![][slowpoke]     | [**maojui**](https://maojui.me/)<br />ヽ(✿ﾟ▽ﾟ)ノ             |
 |     ![][slowpoke]     | [**Billy**](https://github.com/st424204/ctf_practice)<br />Nothing ... Something ... Anything ... Everything |
@@ -66,47 +64,43 @@ In 2019 summer, Balsn attended *DEFCON 27 CTF World Final* in Las Vegas as a joi
 [xinra]: images/xinra.png
 [lwc]: images/lwc.png
 [ymk]: images/ymk.png
-[cli4125]: images/cli4125.png
-[lingling]: images/lingling.png
 [pone]: images/pone.png
 [hortune]: images/hortune.png
 [yuawn]: images/yuawn.png
-[treetree]: images/treetree.png
 [slowpoke]: images/slowpoke.png
-[leon0xff]: images/leon0xff.png
 [kaibro]: images/kaibro.png
 [nini]: images/nini.png
 
 # Selected Awards
 
-| **DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)** |        **Las Vegas, USA, Aug. 2019** |
-| ------------------------------------------------------ | -----------------------------------: |
-| 0CTF/TCTF 2020 Quals, 5th place                        |                    Online, Jun. 2020 |
-| Codegate CTF 2020 Preliminary, 2nd place               |                    Online, Feb. 2020 |
-| DEFCON 27 CTF Qualifier, 2nd place (HITCON⚔BFKinesiS)  |                    Online, May. 2019 |
-| DEFCON 26 CTF Final, 12th place (BFS)                  |            Las Vegas, USA, Aug. 2018 |
-| HITCON CTF 2018, 3rd place (BFKinesiS)                 |                    Online, Oct. 2018 |
-| 0CTF/TCTF Finals, 2nd place                            |           Shanghai, China, Jun. 2019 |
-| Trend Micro CTF 2019 Finals, 3rd place                 |              Tokyo, Japan, Nov. 2019 |
-| Pwn2Win CTF 2019, 2nd place                            |                    Online, Nov. 2019 |
-| TokyoWesterns CTF 5th 2019, 1st place                  |                    Online, Sep. 2019 |
-| Facebook CTF 2019, 2nd place                           |                    Online, Jun. 2019 |
-| PlaidCTF 2019, 4th place                               |                    Online, Apr. 2019 |
-| Teaser Dragon CTF 2019, 3rd place                      |                    Online, Sep. 2019 |
-| N1CTF 2019, 2nd place                                  |                    Online, Sep. 2019 |
-| RCTF 2019, 3rd place                                   |                    Online, May. 2019 |
-| \*CTF 2019, 3rd place                                  |                    Online, Apr. 2019 |
-| Teaser CONFidence CTF 2019, 2nd place                  |                    Online, Mar. 2019 |
-| Codegate CTF 2019 Final, 6th place                     |              Seoul, Korea, Mar. 2019 |
-| HITB-XCTF GSEC CTF 2018 Finals, 5th place              | Singapore City, Singapore, Sep. 2018 |
-| Pwn2Win CTF 2018, 1st place                            |                    Online, Nov. 2018 |
-| Hackover CTF 2018, 2nd place                           |                    Online, Oct. 2018 |
-| ASIS CTF Finals 2018, 5th place                        |                    Online, Nov. 2018 |
-| DefCamp CTF Finals                                     |        Bucharest, Romania, Nov. 2018 |
-| DefCamp CTF Finals                                     |        Bucharest, Romania, Nov. 2017 |
-| Trend Micro CTF 2018 Finals                            |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2018 Finals                                     |              Tokyo, Japan, Dec. 2018 |
-| SECCON 2017 Finals (1$@AIS3, Balsn)                    |              Tokyo, Japan, Feb. 2018 |
+| **DEFCON 28 CTF Finals, 3rd place (HITCON⚔Balsn)** |                **Online, Aug. 2020** |
+| -------------------------------------------------- | -----------------------------------: |
+| DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS) |            Las Vegas, USA, Aug. 2019 |
+| DEFCON 26 CTF Finals, 12th place (BFS)             |            Las Vegas, USA, Aug. 2018 |
+| 0CTF/TCTF 2020 Quals, 5th place                    |                    Online, Jun. 2020 |
+| 0CTF/TCTF 2019 Finals, 2nd place                   |           Shanghai, China, Jun. 2019 |
+| Codegate CTF 2020 Preliminary, 2nd place           |                    Online, Feb. 2020 |
+| HITCON CTF 2018, 3rd place (BFKinesiS)             |                    Online, Oct. 2018 |
+| Trend Micro CTF 2019 Finals, 3rd place             |              Tokyo, Japan, Nov. 2019 |
+| Pwn2Win CTF 2019, 2nd place                        |                    Online, Nov. 2019 |
+| TokyoWesterns CTF 5th 2019, 1st place              |                    Online, Sep. 2019 |
+| Facebook CTF 2019, 2nd place                       |                    Online, Jun. 2019 |
+| PlaidCTF 2019, 4th place                           |                    Online, Apr. 2019 |
+| Teaser Dragon CTF 2019, 3rd place                  |                    Online, Sep. 2019 |
+| N1CTF 2019, 2nd place                              |                    Online, Sep. 2019 |
+| RCTF 2019, 3rd place                               |                    Online, May. 2019 |
+| \*CTF 2019, 3rd place                              |                    Online, Apr. 2019 |
+| Teaser CONFidence CTF 2019, 2nd place              |                    Online, Mar. 2019 |
+| Codegate CTF 2019 Final, 6th place                 |              Seoul, Korea, Mar. 2019 |
+| HITB-XCTF GSEC CTF 2018 Finals, 5th place          | Singapore City, Singapore, Sep. 2018 |
+| Pwn2Win CTF 2018, 1st place                        |                    Online, Nov. 2018 |
+| Hackover CTF 2018, 2nd place                       |                    Online, Oct. 2018 |
+| ASIS CTF Finals 2018, 5th place                    |                    Online, Nov. 2018 |
+| DefCamp CTF Finals                                 |        Bucharest, Romania, Nov. 2018 |
+| DefCamp CTF Finals                                 |        Bucharest, Romania, Nov. 2017 |
+| Trend Micro CTF 2018 Finals                        |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2018 Finals                                 |              Tokyo, Japan, Dec. 2018 |
+| SECCON 2017 Finals (1$@AIS3, Balsn)                |              Tokyo, Japan, Feb. 2018 |
 
 
 # Contact
