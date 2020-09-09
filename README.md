@@ -1,4 +1,22 @@
-# Balsn
+# News
+
+Balsn CTF is back! This year, Balsn CTF 2020 will feature creative and interesting challenges.
+We cordially invite you to join the party. Don't forget to mark it on your calendar!
+
+- Date: 14 Nov. 2020, 10:00 (UCT+8) ~ 16 Nov. 2020, 10:00 (UTC+8)
+- Format: 48-hour Online Jeopardy
+- CTFTime: [event/1122](https://ctftime.org/event/1122/)
+- Official URL: Coming soon
+- Prize:
+  - 1st place: $30,000 TWD
+  - 2nd place: $23,000 TWD
+  - 3rd place: $15,000 TWD
+  - Balsn CTF 2020 Taiwan Stars (top 3 domestic teams):
+    - 1st place: $15,000 TWD
+    - 2nd place: $10,000 TWD
+    - 3rd place: $5,000  TWD
+  - The **top 10 domestic teams** will be invited to another on-site competition.
+  - All the prize will be transferred in BTC or ETH.
 
 # About
 
