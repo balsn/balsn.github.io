@@ -15,7 +15,7 @@ We cordially invite you to join the party. Don't forget to mark it on your calen
     - 1st place: $15,000 TWD
     - 2nd place: $10,000 TWD
     - 3rd place: $5,000  TWD
-  - The **top N domestic teams** will be invited to another on-site competition.
+  - The **top N domestic teams** will be invited to another on-site competition on December 5th in Tainan, Taiwan.
   - All the prize will be transferred in BTC or ETH.
 
 # About
