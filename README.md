@@ -1,9 +1,11 @@
+# Balsn
+
 # News
 
 Balsn CTF is back! This year, Balsn CTF 2020 will feature creative and interesting challenges.
 We cordially invite you to join the party. Don't forget to mark it on your calendar!
 
-- Date: 14 Nov. 2020, 10:00 (UCT+8) ~ 16 Nov. 2020, 10:00 (UTC+8)
+- Date: 14 Nov. 2020, 10:00 (UTC+8) ~ 16 Nov. 2020, 10:00 (UTC+8)
 - Format: 48-hour Online Jeopardy
 - CTFTime: [event/1122](https://ctftime.org/event/1122/)
 - Official URL: Coming soon
