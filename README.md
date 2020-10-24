@@ -13,7 +13,7 @@ We cordially invite you to join the party. Don't forget to mark it on your calen
   - 1st place: $30,000 TWD
   - 2nd place: $23,000 TWD
   - 3rd place: $15,000 TWD
-  - Balsn CTF 2020 Taiwan Stars (top 3 domestic teams):
+  - Balsn CTF 2020 Taiwan Stars (top 3 domestic teams, sponsored by HackerSir):
     - 1st place: $15,000 TWD
     - 2nd place: $10,000 TWD
     - 3rd place: $5,000  TWD
