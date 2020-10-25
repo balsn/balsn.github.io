@@ -20,7 +20,7 @@ We cordially invite you to join the party. Don't forget to mark it on your calen
   - The **top N domestic teams** will be invited to another on-site competition on December 12th and 13th in Taipei, Taiwan (updated).
   - All the prize will be transferred in BTC or ETH.
 
-# News-zh-TW
+# News-zh-tw
 
 Balsn CTF 回來了! 今年我們會舉辦 Balsn CTF 2020，這次會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
 
@@ -36,7 +36,7 @@ Balsn CTF 回來了! 今年我們會舉辦 Balsn CTF 2020，這次會有許多�
     - 第一名：新台幣 $15,000 TWD
     - 第二名：新台幣 $10,000 TWD
     - 第三名：新台幣 $5,000 TWD
-  - 此外，國內前 N 名(待公佈) 將會被邀請至台北參加 12/12, 12/13 的現場比賽
+  - 此外，國內前 N 名(待公佈) 將會被邀請至台北參加另一場現場比賽，時間為 12/12, 12/13
   - 獎金將會以比特幣、以太幣的形式發送
 
 # About
