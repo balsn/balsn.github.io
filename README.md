@@ -8,7 +8,7 @@ We cordially invite you to join the party. Don't forget to mark it on your calen
 - Date: 14 Nov. 2020, 10:00 (UTC+8) ~ 16 Nov. 2020, 10:00 (UTC+8)
 - Format: 48-hour Online Jeopardy
 - CTFTime: [event/1122](https://ctftime.org/event/1122/)
-- Official URL: Coming soon
+- Official URL: [balsnctf.com](https://balsnctf.com/)
 - Prize:
   - 1st place: $30,000 TWD
   - 2nd place: $23,000 TWD
@@ -27,12 +27,12 @@ Balsn CTF 回來了! 今年我們會舉辦 Balsn CTF 2020，這次會有許多�
 - 日期: 11/14 (六) 早上 10:00 ~ 11/16 (一) 早上 10:00 (台北時間)
 - 形式: 48 小時的解題 (jeopardy) 形式
 - CTFTime: [event/1122](https://ctftime.org/event/1122/)
-- 註冊網址: 即將公佈，敬請期待！
+- 註冊網址: [balsnctf.com](https://balsnctf.com/)
 - 獎金:
   - 第一名：新台幣 $30,000 TWD
   - 第二名：新台幣 $23,000 TWD
   - 第三名：新台幣 $15,000 TWD
-  - 台灣之星 (國內前三名，由逢甲大學黑客社贊助)
+  - Balsn CTF 2020 Taiwan Stars (國內前三名，由逢甲大學黑客社贊助)
     - 第一名：新台幣 $15,000 TWD
     - 第二名：新台幣 $10,000 TWD
     - 第三名：新台幣 $5,000 TWD
