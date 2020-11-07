@@ -116,9 +116,9 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | -------------------------------------------------- | -----------------------------------: |
 | DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS) |            Las Vegas, USA, Aug. 2019 |
 | DEFCON 26 CTF Finals, 12th place (BFS)             |            Las Vegas, USA, Aug. 2018 |
-| 0CTF/TCTF 2020 Quals, 5th place                    |                    Online, Jun. 2020 |
+| 0CTF/TCTF 2020 Finals, 2nd place                   |                    Online, Sep. 2020 |
+| Codegate CTF 2020 Finals, 3rd place                |                    Online, Sep. 2020 |
 | 0CTF/TCTF 2019 Finals, 2nd place                   |           Shanghai, China, Jun. 2019 |
-| Codegate CTF 2020 Preliminary, 2nd place           |                    Online, Feb. 2020 |
 | HITCON CTF 2018, 3rd place (BFKinesiS)             |                    Online, Oct. 2018 |
 | Trend Micro CTF 2019 Finals, 3rd place             |              Tokyo, Japan, Nov. 2019 |
 | Pwn2Win CTF 2019, 2nd place                        |                    Online, Nov. 2019 |
