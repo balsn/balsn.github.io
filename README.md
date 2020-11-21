@@ -2,44 +2,17 @@
 
 # News
 
-Balsn CTF is back! This year, Balsn CTF 2020 will feature creative and interesting challenges.
-We cordially invite you to join the party. Don't forget to mark it on your calendar!
+Balsn CTF has ended! Thank you for participating in Balsn CTF 2020. We want to hear [your feedback](https://docs.google.com/forms/d/e/1FAIpQLSd1jrsWcRWc7dvMudbgesVHDNu2_7B5vqkfHGbwgQwb-OaeJA/viewform)!
 
-- Date: 14 Nov. 2020, 10:00 (UTC+8) ~ 16 Nov. 2020, 10:00 (UTC+8)
-- Format: 48-hour Online Jeopardy
-- CTFTime: [event/1122](https://ctftime.org/event/1122/)
-- Official URL: [balsnctf.com](https://balsnctf.com/)
-- Chat room (discord): [https://discord.gg/FNUnBY5N9J](https://discord.gg/FNUnBY5N9J)
-- Prize:
-  - 1st place: $30,000 TWD
-  - 2nd place: $23,000 TWD
-  - 3rd place: $15,000 TWD
-  - Balsn CTF 2020 Taiwan Stars (top 3 domestic teams, sponsored by HackerSir):
-    - 1st place: $15,000 TWD
-    - 2nd place: $10,000 TWD
-    - 3rd place: $5,000  TWD
-  - The **top N domestic teams** will be invited to another on-site competition on December 12th and 13th in Taipei, Taiwan (updated).
-  - All the prize will be transferred in BTC or ETH.
+Congratulations to the following teams:
 
-# News-zh-tw
-
-Balsn CTF 回來了! 今年我們會舉辦 Balsn CTF 2020，這次會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
-
-- 日期: 11/14 (六) 早上 10:00 ~ 11/16 (一) 早上 10:00 (台北時間)
-- 形式: 48 小時的解題 (jeopardy) 形式
-- CTFTime: [event/1122](https://ctftime.org/event/1122/)
-- 註冊網址: [balsnctf.com](https://balsnctf.com/)
-- 聊天室: [https://discord.gg/FNUnBY5N9J](https://discord.gg/FNUnBY5N9J)
-- 獎金:
-  - 第一名：新台幣 $30,000 TWD
-  - 第二名：新台幣 $23,000 TWD
-  - 第三名：新台幣 $15,000 TWD
-  - Balsn CTF 2020 Taiwan Stars (國內前三名，由逢甲大學黑客社贊助)
-    - 第一名：新台幣 $15,000 TWD
-    - 第二名：新台幣 $10,000 TWD
-    - 第三名：新台幣 $5,000 TWD
-  - 此外，國內前 N 名(待公佈) 將會被邀請至台北參加另一場現場比賽，時間為 12/12, 12/13
-  - 獎金將會以比特幣、以太幣的形式發送
+- 1st: Super ⚔️ Blue
+- 2nd: The Flat Network Society
+- 3rd: 10sec
+- Balsn CTF 2020 Taiwan Stars (top 3 domestic teams):
+  - 1st: 10sec 
+  - 2nd: NCtfU
+  - 3rd: BambooFox
 
 # About
 
@@ -118,6 +91,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | -------------------------------------------------- | -----------------------------------: |
 | DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS) |            Las Vegas, USA, Aug. 2019 |
 | DEFCON 26 CTF Finals, 12th place (BFS)             |            Las Vegas, USA, Aug. 2018 |
+| WCTF 2020, 1st place                               |                    Online, Nov. 2020 |
 | 0CTF/TCTF 2020 Finals, 2nd place                   |                    Online, Sep. 2020 |
 | Codegate CTF 2020 Finals, 3rd place                |                    Online, Sep. 2020 |
 | 0CTF/TCTF 2019 Finals, 2nd place                   |           Shanghai, China, Jun. 2019 |
