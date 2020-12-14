@@ -43,7 +43,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 |     ![][slowpoke]     | [**Billy**](https://github.com/st424204/ctf_practice)<br />Nothing ... Something ... Anything ... Everything |
 |       ![][nini]       | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw |
 |     ![][slowpoke]     | **tens**<br />PWN!                                           |
-|      ![][frank]       | Frank Lin<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017) |
+|      ![][frank]       | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017) |
 
 
 ## Honorary Members
