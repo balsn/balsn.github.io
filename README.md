@@ -45,6 +45,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 |     ![][slowpoke]     | **tens**<br />PWN!                                           |
 |      ![][frank]       | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017) |
 |      ![][ginoah]      | **Ginoah**<br />Shaman newbie who focuses on web challenges.<br/>Website: [ginoah.tw](http://ginoah.tw) |
+|       ![][nkhg]       | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)             |
 
 
 ## Honorary Members
@@ -90,6 +91,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [nini]: images/nini.png
 [xun]: images/xun.png
 [ginoah]: images/ginoah.png
+[nkhg]: images/nkhg.png
 
 
 # Selected Awards
