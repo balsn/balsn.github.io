@@ -44,6 +44,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 |       ![][nini]       | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw |
 |     ![][slowpoke]     | **tens**<br />PWN!                                           |
 |      ![][frank]       | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017) |
+|      ![][ginoah]      | **Ginoah**<br />Shaman newbie who focuses on web challenges.<br/>Website: [ginoah.tw](http://ginoah.tw) |
 
 
 ## Honorary Members
@@ -60,6 +61,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][slowpoke] | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
 | ![][slowpoke] | **YY**<br />A student who interested in binary analysis and like to PWN everything. |
 | ![][pone] | **pone**<br />pone! |
+| ![][Xun] | **Xun**<br />**BalsnCTF System Guardian. (OwO)^**<br/>**Lead System Architect of BalsnCTF (2019, 2020)** |
 
 [laurice]: images/laurice.png
 [ysc]: images/ysc.png
@@ -86,6 +88,9 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [slowpoke]: images/slowpoke.png
 [kaibro]: images/kaibro.png
 [nini]: images/nini.png
+[xun]: images/xun.png
+[ginoah]: images/ginoah.png
+
 
 # Selected Awards
 
