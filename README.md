@@ -26,7 +26,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 
 ## Active Members
 
-|      ![][yuawn]       | **yuawn**<br />Current leader of Balsn. Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn) |
+|      ![][yuawn]       | **yuawn**<br />Current leader of Balsn. Pwning my life.  (๑•̀ㅂ•́)ﻭ✧<br />Github: [yuawn](https://github.com/yuawn)<br />Twitter: [\_yuawn](https://twitter.com/_yuawn) |
 | :-------------------: | :----------------------------------------------------------- |
 |     ![][how2hack]     | **how2hack**<br />Give me flag (・ω・)                       |
 |      ![][sasdf]       | **sasdf**<br />Yet another Shaman King of Balsn. He focuses on all kinds of challenges. |
