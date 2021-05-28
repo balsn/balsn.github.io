@@ -2,17 +2,24 @@
 
 # News
 
-Balsn CTF has ended! Thank you for participating in Balsn CTF 2020. We want to hear [your feedback](https://docs.google.com/forms/d/e/1FAIpQLSd1jrsWcRWc7dvMudbgesVHDNu2_7B5vqkfHGbwgQwb-OaeJA/viewform)!
+We are here again! This year, Balsn CTF 2021 will feature creative and interesting challenges.
+We cordially invite you to join our party. Don't forget to mark it on your calendar!
 
-Congratulations to the following teams:
+- Date: 20 Nov. 2021, 10:00 (UCT+8) ~ 22 Nov. 2020, 10:00 (UTC+8)
+- Format: 48-hour Online Jeopardy
+- CTFTime: [event/1376](https://ctftime.org/event/1376/)
+- Official URL: Coming soon
+- Prize:
+  - 1st place: $30,000 TWD
+  - 2nd place: $23,000 TWD
+  - 3rd place: $15,000 TWD
+  - Balsn CTF 2021 Taiwan Stars (top 3 domestic teams):
+    - 1st place: $15,000 TWD
+    - 2nd place: $10,000 TWD
+    - 3rd place: $5,000  TWD
+  - All the prize will be transferred in ETH.
+- All of the above information is subject to change.
 
-- 1st: Super ⚔️ Blue
-- 2nd: The Flat Network Society
-- 3rd: 10sec
-- Balsn CTF 2020 Taiwan Stars (top 3 domestic teams):
-  - 1st: 10sec 
-  - 2nd: NCtfU
-  - 3rd: BambooFox
 
 # About
 
