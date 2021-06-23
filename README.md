@@ -20,6 +20,8 @@ We cordially invite you to join our party. Don't forget to mark it on your calen
   - All the prize will be transferred in ETH.
 - All of the above information is subject to change.
 
+In Balsn CTF 2021, we will be featuring a new "homework" category, which consists of unsolved
+challenges from the previous year. See our [twitter post](https://twitter.com/balsnctf/status/1407656712778125319) for more details.
 
 # About
 
