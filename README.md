@@ -23,6 +23,26 @@ We cordially invite you to join our party. Don't forget to mark it on your calen
 In Balsn CTF 2021, we will be featuring a new "homework" category, which consists of unsolved
 challenges from the previous year. See our [twitter post](https://twitter.com/balsnctf/status/1407656712778125319) for more details.
 
+# News-zh-TW
+
+Balsn CTF 資安競賽又回來了！ 今年我們會舉辦 Balsn CTF 2021，總獎金約 14 萬，這次依然會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
+
+- 日期: 11/20 (六) 早上 10:00 ~ 11/22 (一) 早上 10:00 (UTC+8, 台北時間)
+- 形式: 48 小時的線上解題 (jeopardy) 形式
+- CTFTime: [event/1376](https://ctftime.org/event/1376/)
+- 註冊網址: 即將公佈，敬請期待！
+- 獎金:
+  - 第一名：新台幣 $40,000
+  - 第二名：新台幣 $30,000
+  - 第三名：新台幣 $20,000
+  - Balsn 2021 Taiwan Stars (國內前三名的隊伍)
+    - 第一名：新台幣 $20,000
+    - 第二名：新台幣 $15,000
+    - 第三名：新台幣 $10,000
+  - 獎金將會以以太幣(ETH)的形式發送
+- 以上資訊依照主辦單位最後公佈為準
+
+
 # About
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
