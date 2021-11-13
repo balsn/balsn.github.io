@@ -8,7 +8,7 @@ We cordially invite you to join our party. Don't forget to mark it on your calen
 - Date: 20 Nov. 2021, 10:00 (UCT+8) ~ 22 Nov. 2021, 10:00 (UTC+8)
 - Format: 48-hour Online Jeopardy
 - CTFTime: [event/1376](https://ctftime.org/event/1376/)
-- Official URL: Coming soon
+- Official URL: [https://balsnctf.com/](https://balsnctf.com/)
 - Prize (updated):
   - 1st place: $40,000 TWD
   - 2nd place: $30,000 TWD
@@ -30,7 +30,7 @@ Balsn CTF 資安競賽又回來了！ 今年我們會舉辦 Balsn CTF 2021，總
 - 日期: 11/20 (六) 早上 10:00 ~ 11/22 (一) 早上 10:00 (UTC+8, 台北時間)
 - 形式: 48 小時的線上解題 (jeopardy) 形式
 - CTFTime: [event/1376](https://ctftime.org/event/1376/)
-- 註冊網址: 即將公佈，敬請期待！
+- 註冊網址: [https://balsnctf.com/](https://balsnctf.com/)
 - 獎金:
   - 第一名：新台幣 $40,000
   - 第二名：新台幣 $30,000
