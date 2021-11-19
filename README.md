@@ -5,7 +5,7 @@
 We are here again! This year, Balsn CTF 2021 will feature creative and interesting challenges.
 We cordially invite you to join our party. Don't forget to mark it on your calendar!
 
-- Date: 20 Nov. 2021, 10:00 (UCT+8) ~ 22 Nov. 2021, 10:00 (UTC+8)
+- Date: 20 Nov. 2021, 10:00 (UTC+8) ~ 22 Nov. 2021, 10:00 (UTC+8)
 - Format: 48-hour Online Jeopardy
 - CTFTime: [event/1376](https://ctftime.org/event/1376/)
 - Official URL: [https://balsnctf.com/](https://balsnctf.com/)
