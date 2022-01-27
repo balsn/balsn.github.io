@@ -46,7 +46,12 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][slowpoke]         | **tens**<br />PWN!                                                                                                                                                                                         |
 | ![][frank]            | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017)                                                                                                            |
 | ![][ginoah]           | **Ginoah**<br />Shaman newbie who focuses on web challenges.<br/>Website: [ginoah.tw](http://ginoah.tw)                                                                                                    |
-| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)                                                                                                                                                           |
+| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)
+| ![][utaha]            | **utaha**<br/>Play crypto but am learning pwn OwO|
+| ![][ETT]              | **ETT**<br/>ε≡ﾍ( ´∀`)ﾉ      Crypto|
+| ![][paulhuang]            | **paulhuang**<br/>A newbie who knows a little RE (a.k.a. Reverse Elephant).|
+| ![][slowpoke]           | **fcchen**<br/>I love misc!|
+| ![][YingMuo]            | **YingMuo**<br/>pwn newbie who is finding crystal ball.|
 
 ## Honorary Members
 
@@ -59,7 +64,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][xinra]        | **Xinra**<br />> "Every challenge is brute-forceable if you believe in yourself."<br />For me, 500 [500 CAPTCHAs](https://github.com/ctfs/write-ups-2015/tree/master/trend-micro-ctf-2015/misc/misc-300) are just an hour of human work.                                                                                     |
 | ![][ymk]          | **ymk**<br />Welcome to the world of CTF.                                                                                                                                                                                                                                                                                    |
 | ![][laurice]      | **laurice**<br />A girl studies in computer science and interested in classical music. <br />She has absolute pitch and used the ability to decode music in [D-CTF final](https://github.com/p4-team/ctf/tree/master/2017-11-09-defcamp-final/favourite_song). She is now focusing on the area of machine learning.          |
-| ![][slowpoke]     | **lingling**<br />She is a reverse engineer. She reverses what she is interested in and figures out how it does what it does. (especially for Windows OS). Her interests also include Malware Research and Threat Intelligence.<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
+| ![][slowpoke]     | **lingling**<br />Blog: [0x00.tw](http://0x00.tw/)<br/>Twitter: [@0x000050](https://twitter.com/0x000050) |
 | ![][slowpoke]     | **YY**<br />A student who interested in binary analysis and like to PWN everything.                                                                                                                                                                                                                                          |
 | ![][pone]         | **pone**<br />pone!                                                                                                                                                                                                                                                                                                          |
 | ![][Xun]          | **Xun**<br />**BalsnCTF System Guardian. (OwO)^**<br/>**Lead System Architect of BalsnCTF (2019, 2020)**                                                                                                                                                                                                                     |
@@ -92,7 +97,11 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [xun]: images/xun.png
 [ginoah]: images/ginoah.png
 [nkhg]: images/nkhg.png
-
+[utaha]: images/utaha.png
+[ETT]: images/ETT.png
+[paulhuang]: images/paulhuang.png
+[fcchen]: images/fcchen.png
+[YingMuo]: images/YingMuo.png
 # Selected Awards
 
 | **DEFCON 28 CTF Finals, 3rd place (HITCON⚔Balsn)** | **Online, Aug. 2020**                |
