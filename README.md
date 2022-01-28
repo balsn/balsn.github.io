@@ -45,8 +45,8 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][nini]             | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw                                                                                                                                          |
 | ![][slowpoke]         | **tens**<br />PWN!                                                                                                                                                                                         |
 | ![][frank]            | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017)                                                                                                            |
-| ![][ginoah]           | **Ginoah**<br />Shaman newbie who focuses on web challenges.<br/>Website: [ginoah.tw](http://ginoah.tw)                                                                                                    |
-| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)
+| ![][ginoah]           | Current leader of Balsn. (๑•ᴗ•)⊃━*✩⁺˚🕸 |
+| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)|
 | ![][utaha]            | **utaha**<br/>Play crypto but am learning pwn OwO|
 | ![][ETT]              | **ETT**<br/>ε≡ﾍ( ´∀`)ﾉ      Crypto|
 | ![][paulhuang]            | **paulhuang**<br/>A newbie who knows a little RE (a.k.a. Reverse Elephant).|
@@ -102,6 +102,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [paulhuang]: images/paulhuang.png
 [fcchen]: images/fcchen.png
 [YingMuo]: images/YingMuo.png
+
 # Selected Awards
 
 | **DEFCON 28 CTF Finals, 3rd place (HITCON⚔Balsn)** | **Online, Aug. 2020**                |
