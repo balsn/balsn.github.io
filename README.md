@@ -1,5 +1,3 @@
-# Balsn
-
 # News
 
 Thanks for all the teams participating in Balsn CTF 2021. We hope you enjoyed our challenges. If you like our CTF, please help [vote weight in CTFTime](https://ctftime.org/event/1376/weight) or [provide feedbacks](https://docs.google.com/forms/d/e/1FAIpQLSefUfjaJ6dGxT5bv-EvPrC4lB-UeMQNiT6MXknZUomx8t8Jjw/viewform?usp=sf_link). We really appreciate your support and feedback!

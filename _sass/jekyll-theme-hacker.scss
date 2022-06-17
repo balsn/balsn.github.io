@@ -23,11 +23,20 @@ body {
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#LOGO{
+  max-width: 35%;
+  height: auto;
+  padding: 15px;
 }
 
 section {
   display: block;
-  margin: 0 0 20px 0;
+  margin: 0 0 5px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,10 +54,10 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.9);
   width: 100%;
   border-bottom: 1px dashed $conifer; //header;
-  padding: 20px 0;
+  padding: 5px 0 20px 0;
   margin: 0 0 40px 0;
 }
 
@@ -98,9 +107,6 @@ header h2 {
 #main_content {
   width: 100%;
   -webkit-font-smoothing: antialiased;
-}
-section img {
-  //max-width: 100%
 }
 
 h1, h2, h3, h4, h5, h6 {
