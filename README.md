@@ -1,17 +1,35 @@
 # News
 
-Thanks for all the teams participating in Balsn CTF 2021. We hope you enjoyed our challenges. If you like our CTF, please help [vote weight in CTFTime](https://ctftime.org/event/1376/weight) or [provide feedbacks](https://docs.google.com/forms/d/e/1FAIpQLSefUfjaJ6dGxT5bv-EvPrC4lB-UeMQNiT6MXknZUomx8t8Jjw/viewform?usp=sf_link). We really appreciate your support and feedback!
+Hello everyone, We are here again! This year, Balsn CTF 2022 will feature creative and interesting challenges.
+We cordially invite you to join our party. Don't forget to join our CTF event!
 
-Congratulations to the following teams:
+- Date: 03 Sep. 2022, 10:00 (UTC+8) ~ 05 Sep. 2022, 10:00 (UTC+8)
+- Format: 48-hour Online Jeopardy
+- CTFTime: [event/1697](https://ctftime.org/event/1697)
+- Official URL: Coming Soon!
+- Prize:
+  - 1st place: Wait and see.
+  - 2nd place: Wait and see.
+  - 3rd place: Wait and see.
+  - Balsn CTF 2022 Taiwan Stars (top 3 domestic teams with more than 3 challenges solved, excluding top 3 prizes):
+  - All the prize will be transferred in ETH.
+- All of the above information is subject to change.
 
-- Global top 3:
-  - 1st place: Water Paddler
-  - 2nd place: 10sec
-  - 3rd place: Goburin'
-- Balsn CTF 2021 Taiwan Stars (domestic top 3):
-  - 1st place: 10sec
-  - 2nd place: Goburin'
-  - 3rd place: BambooFox
+# News-zh-TW
+
+Balsn CTF 資安搶旗賽又來啦！ 今年我們會舉辦 Balsn CTF 2022，依然會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
+
+ - 日期: 09/03 (六) 早上 10:00 ~ 09/05 (一) 早上 10:00 (UTC+8, 台北時間)
+ - 形式: 48 小時的線上解題 (jeopardy) 形式
+ - CTFTime: [event/1697](https://ctftime.org/event/1697)
+ - 註冊網址: 即將公佈，敬請期待！
+ - 獎金:
+   - 第一名：即將公佈，敬請期待！
+   - 第二名：即將公佈，敬請期待！
+   - 第三名：即將公佈，敬請期待！
+   - Balsn 2022 Taiwan Stars (國內前三名的隊伍, 不重複前 3 名隊伍且每隊解出超過 3 題)
+   - 獎金將會以以太幣(ETH)的形式發送
+ - 以上資訊依照主辦單位最後公佈為準
 
 # About
 
