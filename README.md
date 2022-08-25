@@ -8,10 +8,13 @@ We cordially invite you to join our party. Don't forget to join our CTF event!
 - CTFTime: [event/1697](https://ctftime.org/event/1697)
 - Official URL: Coming Soon!
 - Prize:
-  - 1st place: Wait and see.
-  - 2nd place: Wait and see.
-  - 3rd place: Wait and see.
+  - 1st place: $30,000 TWD
+  - 2nd place: $20,000 TWD
+  - 3rd place: $10,000 TWD
   - Balsn CTF 2022 Taiwan Stars (top 3 domestic teams with more than 3 challenges solved, excluding top 3 prizes):
+    - 1st place: $9,000 TWD
+    - 2nd place: $5,000 TWD
+    - 3rd place: $3,000 TWD
   - All the prize will be transferred in ETH.
 - All of the above information is subject to change.
 
@@ -19,17 +22,20 @@ We cordially invite you to join our party. Don't forget to join our CTF event!
 
 Balsn CTF 資安搶旗賽又來啦！ 今年我們會舉辦 Balsn CTF 2022，依然會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
 
- - 日期: 09/03 (六) 早上 10:00 ~ 09/05 (一) 早上 10:00 (UTC+8, 台北時間)
- - 形式: 48 小時的線上解題 (jeopardy) 形式
- - CTFTime: [event/1697](https://ctftime.org/event/1697)
- - 註冊網址: 即將公佈，敬請期待！
- - 獎金:
-   - 第一名：即將公佈，敬請期待！
-   - 第二名：即將公佈，敬請期待！
-   - 第三名：即將公佈，敬請期待！
-   - Balsn 2022 Taiwan Stars (國內前三名的隊伍, 不重複前 3 名隊伍且每隊解出超過 3 題)
-   - 獎金將會以以太幣(ETH)的形式發送
- - 以上資訊依照主辦單位最後公佈為準
+- 日期: 09/03 (六) 早上 10:00 ~ 09/05 (一) 早上 10:00 (UTC+8, 台北時間)
+- 形式: 48 小時的線上解題 (jeopardy) 形式
+- CTFTime: [event/1697](https://ctftime.org/event/1697)
+- 註冊網址: 即將公佈，敬請期待！
+- 獎金:
+  - 第一名：新台幣 $30,000
+  - 第二名：新台幣 $20,000
+  - 第三名：新台幣 $10,000
+  - Balsn 2022 Taiwan Stars (國內前三名的隊伍, 不重複前 3 名隊伍且每隊解出超過 3 題)
+    - 第一名：新台幣 $9,000
+    - 第二名：新台幣 $5,000
+    - 第三名：新台幣 $3,000
+  - 獎金將會以以太幣(ETH)的形式發送
+- 以上資訊依照主辦單位最後公佈為準
 
 # About
 
