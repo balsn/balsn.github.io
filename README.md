@@ -6,7 +6,7 @@ We cordially invite you to join our party. Don't forget to join our CTF event!
 - Date: 03 Sep. 2022, 10:00 (UTC+8) ~ 05 Sep. 2022, 10:00 (UTC+8)
 - Format: 48-hour Online Jeopardy
 - CTFTime: [event/1697](https://ctftime.org/event/1697)
-- Official URL: balsnctf.com
+- Official URL: [balsnctf.com](https://balsnctf.com/)
 - Prize:
   - 1st place: $30,000 TWD
   - 2nd place: $20,000 TWD
@@ -25,7 +25,7 @@ Balsn CTF 資安搶旗賽又來啦！ 今年我們會舉辦 Balsn CTF 2022，依
 - 日期: 09/03 (六) 早上 10:00 ~ 09/05 (一) 早上 10:00 (UTC+8, 台北時間)
 - 形式: 48 小時的線上解題 (jeopardy) 形式
 - CTFTime: [event/1697](https://ctftime.org/event/1697)
-- 註冊網址: balsnctf.com
+- 註冊網址: [balsnctf.com](https://balsnctf.com/)
 - 獎金:
   - 第一名：新台幣 $30,000
   - 第二名：新台幣 $20,000
