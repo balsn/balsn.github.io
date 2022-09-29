@@ -68,12 +68,15 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][nini]             | [**NiNi**](http://blog.terrynini.tw)<br />blog: blog.terrynini.tw                                                                                                                                          |
 | ![][slowpoke]         | **tens**<br />PWN!                                                                                                                                                                                         |
 | ![][frank]            | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017)                                                                                                            |
-| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)|
+| ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)
 | ![][utaha]            | **utaha**<br/>Play crypto but am learning pwn OwO|
 | ![][ETT]              | **ETT**<br/>ε≡ﾍ( ´∀`)ﾉ      Crypto|
 | ![][paulhuang]            | **paulhuang**<br/>A newbie who knows a little RE (a.k.a. Reverse Elephant).|
-| ![][slowpoke]           | **fcchen**<br/>I love misc!|
-| ![][YingMuo]            | **YingMuo**<br/>pwn newbie who is finding crystal ball.|
+| ![][slowpoke]           | **fcchen**<br/>I love misc!
+| ![][YingMuo]            | **YingMuo**<br/>pwn newbie who is finding crystal ball.
+| ![][chiffoncake]            | **chiffoncake**<br/>cats are more adorable than flags even in `cat flag`.
+| ![][nawmrofed]            | **nawmrofed**<br/>Just call me namo !
+| ![][asef]            | **asef18766**<br/>professional trash code generator
 
 ## Honorary Members
 
@@ -124,6 +127,9 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [paulhuang]: images/paulhuang.png
 [fcchen]: images/fcchen.png
 [YingMuo]: images/YingMuo.png
+[chiffoncake]: images/chiffoncake.png
+[nawmrofed]: images/nawmrofed.jpg
+[asef]: images/asef.jpg
 
 # Selected Awards
 
