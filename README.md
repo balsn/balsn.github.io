@@ -39,7 +39,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][nawmrofed]            | **nawmrofed**<br/>Just call me namo !
 | ![][asef]            | **asef18766**<br/>professional trash code generator
 | ![][ice1187]            | **Ice1187**<br/>Onigiri is as cute as a cat.
-| ![][as535364]            | **as535364**<br/>A professional bug maker.<br/>Blog: [blog.ujoj.cc](blog.ujoj.cc)
+| ![][as535364]            | **as535364**<br/>A professional bug maker.<br/>Blog: [blog.ujoj.cc](https://blog.ujoj.cc)
 
 ## Honorary Members
 
