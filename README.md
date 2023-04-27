@@ -1,42 +1,3 @@
-# News
-
-Hello everyone, We are here again! This year, Balsn CTF 2022 will feature creative and interesting challenges.
-We cordially invite you to join our party. Don't forget to join our CTF event!
-
-- Date: 03 Sep. 2022, 10:00 (UTC+8) ~ 05 Sep. 2022, 10:00 (UTC+8)
-- Format: 48-hour Online Jeopardy
-- CTFTime: [event/1697](https://ctftime.org/event/1697)
-- Official URL: [balsnctf.com](https://balsnctf.com/)
-- Prize:
-  - 1st place: $30,000 TWD
-  - 2nd place: $20,000 TWD
-  - 3rd place: $10,000 TWD
-  - Balsn CTF 2022 Taiwan Stars (top 3 domestic teams with more than 3 challenges solved, excluding top 3 prizes):
-    - 1st place: $9,000 TWD
-    - 2nd place: $5,000 TWD
-    - 3rd place: $3,000 TWD
-  - All the prize will be transferred in ETH.
-- All of the above information is subject to change.
-
-# News-zh-TW
-
-Balsn CTF 資安搶旗賽又來啦！ 今年我們會舉辦 Balsn CTF 2022，依然會有許多充滿創意以及有趣的題目，我們誠摯歡迎各位一起來參加這場比賽！請大家記得在行事曆上空出日子，一起來參與這個盛大的宴會吧！
-
-- 日期: 09/03 (六) 早上 10:00 ~ 09/05 (一) 早上 10:00 (UTC+8, 台北時間)
-- 形式: 48 小時的線上解題 (jeopardy) 形式
-- CTFTime: [event/1697](https://ctftime.org/event/1697)
-- 註冊網址: [balsnctf.com](https://balsnctf.com/)
-- 獎金:
-  - 第一名：新台幣 $30,000
-  - 第二名：新台幣 $20,000
-  - 第三名：新台幣 $10,000
-  - Balsn 2022 Taiwan Stars (國內前三名的隊伍, 不重複前 3 名隊伍且每隊解出超過 3 題)
-    - 第一名：新台幣 $9,000
-    - 第二名：新台幣 $5,000
-    - 第三名：新台幣 $3,000
-  - 獎金將會以以太幣(ETH)的形式發送
-- 以上資訊依照主辦單位最後公佈為準
-
 # About
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
@@ -70,13 +31,15 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][frank]            | **Frank Lin**<br />I'm a huge fan of sasdf!<br/>github: [Frank Lin](https://github.com/eee4017)                                                                                                            |
 | ![][nkhg]             | [**nkhg**](https://twlin.csie.org/)<br />ლ(◕ω◕ლ)
 | ![][utaha]            | **utaha**<br/>Play crypto but am learning pwn OwO|
-| ![][ETT]              | **ETT**<br/>ε≡ﾍ( ´∀`)ﾉ      Crypto|
+| ![][ETT]              | **ETT**<br/>Crypto ε≡ﾍ( ´∀`)ﾉ Pwn
 | ![][paulhuang]            | **paulhuang**<br/>A newbie who knows a little RE (a.k.a. Reverse Elephant).|
 | ![][slowpoke]           | **fcchen**<br/>I love misc!
 | ![][YingMuo]            | **YingMuo**<br/>pwn newbie who is finding crystal ball.
 | ![][chiffoncake]            | **chiffoncake**<br/>cats are more adorable than flags even in `cat flag`.
 | ![][nawmrofed]            | **nawmrofed**<br/>Just call me namo !
 | ![][asef]            | **asef18766**<br/>professional trash code generator
+| ![][ice1187]            | **Ice1187**<br/>Onigiri is as cute as a cat.
+| ![][as535364]            | **as535364**<br/>A professional bug maker.<br/>Blog: [blog.ujoj.cc](blog.ujoj.cc)
 
 ## Honorary Members
 
@@ -123,13 +86,15 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [ginoah]: images/ginoah.png
 [nkhg]: images/nkhg.png
 [utaha]: images/utaha.png
-[ETT]: images/ETT.png
+[ETT]: images/ETT.jpg
 [paulhuang]: images/paulhuang.png
 [fcchen]: images/fcchen.png
 [YingMuo]: images/YingMuo.png
 [chiffoncake]: images/chiffoncake.png
 [nawmrofed]: images/nawmrofed.jpg
 [asef]: images/asef.jpg
+[ice1187]: images/ice1187.png
+[as535364]: images/as535364.png
 
 # Selected Awards
 
