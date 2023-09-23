@@ -1,3 +1,27 @@
+# News
+
+Hello everyone, We are here again! This year, Balsn CTF 2023 will feature creative and interesting challenges.
+We cordially invite you to join our party. Don't forget to join our CTF event!
+07 十月 2023, 02:00 UTC — 星期一, 09 十月 2023, 02:00 UTC
+- Date: 07 Oct. 2023, 10:00 (UTC+8) ~ 09 Oct. 2023, 10:00 (UTC+8)
+- Format: 48-hour Online Jeopardy
+- CTFTime: [event/2056](https://ctftime.org/event/2056)
+- Official URL: Wait and see!
+- Exciting News:
+    - The first place of Balsn CTF 2023 will get the qualification in the HITCON CTF 2023 final!.
+
+
+# News-zh-TW
+
+Balsn CTF 資安搶旗賽又來啦！ 今年我們會舉辦 Balsn CTF 2023，依然會有許多充滿創意以及有趣的題目，誠摯歡迎各位一起來參加比賽！請大家記得在行事曆上空出日子，來參與這個盛大的宴會吧！
+
+- 日期: 10/07 (六) 早上 10:00 ~ 10/09 (一) 早上 10:00 (UTC+8, 台北時間)
+- 形式: 48 小時的線上解題 (jeopardy) 形式
+- CTFTime: [event/2056](https://ctftime.org/event/2056)
+- 註冊網址: Wait and see!
+- 特別消息:
+  - Balsn CTF 2023 的第一名將獲得參加 HITCON CTF 2023 決賽的資格
+
 # About
 
 Balsn is CTF team from Taiwan founded in 2016. Most of our current members are affiliated with [Network Security Lab](https://nslab.csie.ntu.edu.tw/) in National Taiwan University. We actively participate in online and onsite CTF competitions. You can browse our recently participated events and rankings on [CTFtime](https://ctftime.org/team/16978). We also publish [writeups](ctf_writeup/) on CTF challenges.
