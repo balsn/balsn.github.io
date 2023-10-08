@@ -62,8 +62,9 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 | ![][chiffoncake]            | **chiffoncake**<br/>cats are more adorable than flags even in `cat flag`.
 | ![][nawmrofed]            | **nawmrofed**<br/>Just call me namo !
 | ![][asef]            | **asef18766**<br/>professional trash code generator
-| ![][ice1187]            | **Ice1187**<br/>Onigiri is as cute as a cat.
+| ![][ice1187]            | **Ice1187**<br/>Fugi is as cute as a cat.
 | ![][as535364]            | **as535364**<br/>A professional bug maker.<br/>Blog: [blog.ujoj.cc](https://blog.ujoj.cc)
+| ![][lisasa]            | **Lisasa**<br/>Have a happy day!
 
 ## Honorary Members
 
@@ -119,6 +120,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [asef]: images/asef.jpg
 [ice1187]: images/ice1187.png
 [as535364]: images/as535364.png
+[lisasa]: images/lisasa.jpg
 
 # Selected Awards
 
