@@ -118,7 +118,7 @@ In 2020 summer, Balsn attended *DEFCON 28 CTF World Final* online as a joint tea
 [chiffoncake]: images/chiffoncake.png
 [nawmrofed]: images/nawmrofed.jpg
 [asef]: images/asef.jpg
-[ice1187]: images/ice1187.png
+[ice1187]: images/ice.png
 [as535364]: images/as535364.png
 [lisasa]: images/lisasa.jpg
 
